@@ -1,4 +1,4 @@
-# Project's name 
+# Scara Arm 
 
 ![Logo](./docs/assets/Logo.png)
 <!-- And/or a video. For the documentation is necesary to have a logo.png in the assets folder -->
