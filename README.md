@@ -1,10 +1,11 @@
 # Project's name 
 
-![Logo](./docs/assets/logo.png)
+![Logo](./docs/assets/Logo.png)
 <!-- And/or a video. For the documentation is necesary to have a logo.png in the assets folder -->
 
 ## Description
-What does the project do? 
+The idea of this project is to build a 3DOF Scara Robot, using Nema 17 and steel frames. The goal precision of the machine is 0.03mm. 
+This precision is helpful for PCB assembly that is the main goal of this machine.
 
 ## Project Builders
 If you want to recreate the latest version of the project, we recommend visiting the docs folder and download the user manual file. There you can find all the instructions, recommendations, dependencies, etc., for this project. Alternatively, in the releases section, you can download a ZIP file with all the files, including the user manual for each version.

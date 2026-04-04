@@ -1,0 +1,14 @@
+name = "scaraScript"
+uuid = "c0dfeb30-4d8f-4519-945f-15e7abe65df4"
+version = "0.1.0"
+authors = ["juanCamilo0509 <juank109845@gmail.com>"]
+
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+
+[compat]
+Plots = "1.41.6"
+Roots = "2.2.14"
+Unitful = "1.28.0"
